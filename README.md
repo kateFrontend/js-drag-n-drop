@@ -1,6 +1,6 @@
 # Drag N Drop
 
-![cover](./assets/)
+![cover](./assets/dragdrop.gif)
 
 ## 🦉 Main information
 
